@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/travelinsert_helio_dapp/static/css/main.0e5a5268.chunk.css",
+    "main.js": "/travelinsert_helio_dapp/static/js/main.a4bf7e0c.chunk.js",
+    "main.js.map": "/travelinsert_helio_dapp/static/js/main.a4bf7e0c.chunk.js.map",
+    "runtime-main.js": "/travelinsert_helio_dapp/static/js/runtime-main.6930198d.js",
+    "runtime-main.js.map": "/travelinsert_helio_dapp/static/js/runtime-main.6930198d.js.map",
+    "static/js/2.f011ad34.chunk.js": "/travelinsert_helio_dapp/static/js/2.f011ad34.chunk.js",
+    "static/js/2.f011ad34.chunk.js.map": "/travelinsert_helio_dapp/static/js/2.f011ad34.chunk.js.map",
+    "index.html": "/travelinsert_helio_dapp/index.html",
+    "static/css/main.0e5a5268.chunk.css.map": "/travelinsert_helio_dapp/static/css/main.0e5a5268.chunk.css.map",
+    "static/js/2.f011ad34.chunk.js.LICENSE.txt": "/travelinsert_helio_dapp/static/js/2.f011ad34.chunk.js.LICENSE.txt",
+    "static/media/blob.png": "/travelinsert_helio_dapp/static/media/blob.e3950678.png",
+    "static/media/cercuri.png": "/travelinsert_helio_dapp/static/media/cercuri.05cc0d04.png",
+    "static/media/blk-design-system-react.scss?v=1.2.0": "/travelinsert_helio_dapp/static/media/square5.16283001.png",
+    "static/media/denys.jpg": "/travelinsert_helio_dapp/static/media/denys.1b33975a.jpg",
+    "static/media/etherum.png": "/travelinsert_helio_dapp/static/media/etherum.628f765f.png",
+    "static/media/fabien-bazanegue.jpg": "/travelinsert_helio_dapp/static/media/fabien-bazanegue.3c5ff5a0.jpg",
+    "static/media/mark-finn.jpg": "/travelinsert_helio_dapp/static/media/mark-finn.40b78857.jpg",
+    "static/media/mike.jpg": "/travelinsert_helio_dapp/static/media/mike.fe979cd1.jpg",
+    "static/media/nucleo-icons.css": "/travelinsert_helio_dapp/static/media/nucleo.bd5cce8b.eot",
+    "static/media/path2.png": "/travelinsert_helio_dapp/static/media/path2.35e76a63.png",
+    "static/media/path4.png": "/travelinsert_helio_dapp/static/media/path4.cb1d9fab.png",
+    "static/media/patrat.png": "/travelinsert_helio_dapp/static/media/patrat.aeec33e4.png",
+    "static/media/profile.png": "/travelinsert_helio_dapp/static/media/profile.4b4a77b9.png",
+    "static/media/square-purple-1.png": "/travelinsert_helio_dapp/static/media/square-purple-1.ed3a5e38.png",
+    "static/media/waves.png": "/travelinsert_helio_dapp/static/media/waves.ac46eaef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6930198d.js",
+    "static/js/2.f011ad34.chunk.js",
+    "static/css/main.0e5a5268.chunk.css",
+    "static/js/main.a4bf7e0c.chunk.js"
+  ]
+}
